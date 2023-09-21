@@ -1,0 +1,46 @@
+.blue-header {
+    background-color: hsl(211.43deg 43.75% 18.82%);
+}
+
+.people {
+    width: 140vh;
+}
+
+.move-right {
+    margin: 0;
+}
+
+.heroImage {
+    background-image: url('https://images.unsplash.com/photo-1497215641119-bbe6d71ebaae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG9mZmljZSUyMHdvcmtzcGFjZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60');
+    height: 40rem;
+    /* width: 50rem; */
+    /* object-fit: cover; */
+    /* for background images use background properties */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+span {
+    padding: 12px;
+    color: white;
+    text-align: center;
+}
+
+.center-text {
+    text-align: center;
+    text-decoration: underline blue;
+
+}
+
+.image-why {
+    height: 70rem;
+}
+
+.gray-para {
+    padding: 10px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 15px;
+}
