@@ -35,12 +35,31 @@ span {
 }
 
 .image-why {
-    height: 70rem;
+    height: 36rem;
 }
 
 .gray-para {
     padding: 10px;
     text-align: left;
-    padding-left: 10px;
-    padding-top: 15px;
+    padding-left: 133px;
+    padding-top: 199px;
+    background-color: rgba(0, 0, 0, 0.232);
+    height: 36.7rem;
+}
+
+.second-image {
+    background-image: url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eSUyMGJ1aWRsaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 20rem;
+
+
+}
+
+.image-blur {
+    background-color: rgba(0, 0, 0, 0.123);
+    backdrop-filter: blur(10px);
+    padding: 10px;
+    text-align: center;
 }
